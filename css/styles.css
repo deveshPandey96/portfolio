@@ -52,7 +52,7 @@ body{
   margin-bottom: 20px;
 }
 .projects{
-  width: 48%;
+  width: 40%;
   height: 780px;
   background-image: url("bg2.png");
   float: right;
@@ -61,7 +61,7 @@ body{
 }
 
 .certificates{
-  width: 48%;
+  width: 40%;
   float: left;
   height: 780px;
 padding: 10px;
