@@ -76,6 +76,7 @@ a{
 .name{
   position: absolute;
   left: 100px;
+  top: 225px;
 }
 .top{
   background-image:url("bg.jpg");
@@ -115,9 +116,9 @@ h3{
 }
 
 .intro{
-  position: relative;
-  top: 100px;
-  right: 250px;
+  position: absolute;
+  top: 320px;
+  left: 70px;
 }
 .self-img{
   position: relative;
@@ -224,10 +225,7 @@ right: 400px;
   right: 480px;
 }
 
-.node{
-  position: relative;
-  bottom: 30px;
-}
+
 .sql{
   float: left;
 }
@@ -271,3 +269,30 @@ right: 400px;
   position: relative;
   top: 60px;
 }
+
+/* .htmlpng{
+  position: absolute;
+
+}
+.csspng{
+  position: absolute;
+}
+.jspng{
+  position: absolute;
+}
+.bspng{
+  position: absolute;
+}
+.node{
+  position: absolute;
+  bottom: 30px;
+}
+.mdbpng{
+  position: absolute;
+}
+.sqlpng{
+  position: absolute;
+}
+.reactpng{
+  position: absolute;
+} */
